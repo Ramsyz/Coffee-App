@@ -1,25 +1,29 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react'
+import Coffee from './components/coffee/Coffee'
+import Hero from './components/hero/Hero'
+import NavBar from './components/navbar/NavBar'
+import Footer from './components/footer/Footer'
+
+
+// import images
+import img from './assests/img.jpg'
+import img1 from './assests/img1.jpg'
+import main1 from './assests/main1.jpg'
+import main2 from './assests/main2.jpg'
+// import main3 from './assests/main3.jpg'
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <NavBar/>
+      <Hero/>
+      <Coffee bgImg1={img} bgImg2={img1}/>
+      <Coffee bgImg={main1}/>
+      <Coffee bgImg={main2}/>
+      <Footer/>
     </div>
-  );
+  )
 }
 
-export default App;
+export default App

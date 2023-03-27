@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Ramsyz/Coffee-app-react/static/css/main.e4799567.css",
+    "main.js": "/Ramsyz/Coffee-app-react/static/js/main.81660463.js",
+    "static/media/footer.jpg": "/Ramsyz/Coffee-app-react/static/media/footer.11be1984f84792938b8c.jpg",
+    "static/media/main1.jpg": "/Ramsyz/Coffee-app-react/static/media/main1.c933bfb29f263d6a1210.jpg",
+    "static/media/main2.jpg": "/Ramsyz/Coffee-app-react/static/media/main2.91165b2095693009c224.jpg",
+    "static/media/img1.jpg": "/Ramsyz/Coffee-app-react/static/media/img1.e1dab9335681f22c2e07.jpg",
+    "static/media/img.jpg": "/Ramsyz/Coffee-app-react/static/media/img.2f04d7e2446a9f232ba0.jpg",
+    "index.html": "/Ramsyz/Coffee-app-react/index.html",
+    "main.e4799567.css.map": "/Ramsyz/Coffee-app-react/static/css/main.e4799567.css.map",
+    "main.81660463.js.map": "/Ramsyz/Coffee-app-react/static/js/main.81660463.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4799567.css",
+    "static/js/main.81660463.js"
+  ]
+}
